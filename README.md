@@ -191,19 +191,46 @@ It can be used for:
 
 ---
 
-## 🔁 Build Reproducibility Instructions (Mandatory)
+## 🔁 Build Reproducibility Instructions 
 
-To fully reproduce this project:
+To fully reproduce this project locally:
 
-1. Use **Node.js v18 or higher**
-2. Clone the repository
-3. Run `npm install`
-4. Run `npm run dev`
-5. Open `http://localhost:3000`
+### Prerequisites
+- Node.js v18 or higher
+- npm (comes with Node.js)
+
+### Steps
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/swatiraniiii1210/Vibelink.git
+   ```
+
+2. Navigate into the project directory:
+   ```
+   cd Vibelink
+   ```
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
+4. Start the development server:
+   ```
+   npm run dev
+   ```
+
+5. Open your browser and visit:
+   ```
+   http://localhost:3000
+   ```
+
+---
 
 No additional environment variables are required for the hackathon prototype.
 
-The build can be reproduced entirely using the above steps.
+The build can be fully reproduced using the steps above.
 
 ---
 
