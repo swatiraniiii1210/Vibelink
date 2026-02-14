@@ -190,6 +190,12 @@ It can be used for:
 - Mobile app deployment  
 
 ---
+---
+
+## 📂 Source Code Structure
+
+All core compatibility rounds and real-time interaction logic are implemented within the `src` and `socket-server.js` files.
+
 
 ## 🔁 Build Reproducibility Instructions 
 
